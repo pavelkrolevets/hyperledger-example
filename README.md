@@ -1,2 +1,2 @@
 # hyperledger-loyalty
-DLT loyalty system on Hyperledged
+DLT loyalty system on Hyperledger
